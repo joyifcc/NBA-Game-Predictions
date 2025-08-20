@@ -1,0 +1,1 @@
+This project predicts NBA game outcomes using team performance stats, applying models like logistic regression and gradient boosting. The model’s forecasts are used to identify value bets in moneyline wagering, with hedging strategies to manage risk and enhance returns.
